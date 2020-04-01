@@ -11,7 +11,7 @@
               <td 
                   valign='bottom'
                   background='sam_on_tram.jpg'
-                  onClick = " location.href='http://www.boximi.net' "
+                  onClick = " location.href='http://blog.boximi.net' "
                   style="background-repeat:no-repeat;
                   background-position:50% 50%;
                   background-size:contain;" 
