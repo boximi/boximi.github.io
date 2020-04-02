@@ -19,5 +19,5 @@
     </tr>
   </table>
 
-</center>.
+</center>
 </html>
